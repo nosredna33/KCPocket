@@ -17,7 +17,7 @@ O projeto inclui um **painel administrativo web completo** construído com **Thy
 | **ChatGPT**   | Refinar o prompt      | 100%            | 1 hora                   | 03/03/2026       |
 | **Manus**     | Codificação assistida | 95%             | 3 horas / 2.067 créditos | 04/03/2026       |
 | **Anderson**  | Documentação + Git    | 70%             | 2 horas                  | 05/03/2026       |
-| **__TOTAL__** | H/H + Manus Credits   | (R$150 x 15) +  | (US$ 120.00 x 6)         | ** R$ 3.006,00** |
+| **TOTAL**     | H/H + Manus Credits   | (R$150 x 15) +  | (US$ 120.00 x 6)         | **R$ 3.006,00**  |
 
 
 > 🆓 _`Não, não existe almoço grátis!`_
