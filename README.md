@@ -9,6 +9,16 @@
 
 O projeto inclui um **painel administrativo web completo** construído com **Thymeleaf** e **Bootstrap 5** para gerenciar todos os aspectos do servidor de autorização.
 
+## 📋 Project Resume
+| Recurso      | Meta                  | Progresso       | Tempo / Recurso          | Data Início | 
+| -----------  | --------------        | --------------- | ------------------------ | ----------- |
+| **Anderson** | Especificação         | 100%            | 5 horas                  | 02/03/2026  |
+| **Gemini**   | Criação do prompt     | 100%            | 4 horas                  | 03/03/2026  |
+| **ChatGPT**  | Refinar o prompt      | 100%            | 1 hora                   | 03/03/2026  |
+| **Manus**    | Codificação assistida | 95%             | 3 horas / 2.067 créditos | 04/03/2026  |
+| **Anderson** | Documentação + Git    | 70%             | 2 horas                  | 05/03/2026  |
+
+
 ## ✨ Funcionalidades Principais
 
 - **OAuth 2.0 & OpenID Connect**: Suporte completo aos fluxos padrão.
